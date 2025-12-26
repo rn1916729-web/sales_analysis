@@ -10,7 +10,8 @@ pandas
 numpy
 python
 project :sales analysis
-"C:\Users\Raj Nandini\Desktop\nandani\sales analysis.py"
+
+https://drive.google.com/file/d/1I0eU7hgWYHaCHkNNCQt0A-vD6wbmWNDi/view?usp=drive_link
 author : rajnandani
 
 
